@@ -1,1 +1,51 @@
-
+h1{
+   text-align: center;
+   color:white;
+   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; 
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: black;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+}
+li a:hover{
+    background-color: gray;
+}
+.heading{
+    padding: 30px 16px;
+    background-image: url("2.jpeg");
+}
+.image1{
+    display: block;
+}
+.abouthead{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 50px 70px;
+}
+.body{
+    font-size: 30px;
+}
+.size{
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    background-color: burlywood;
+    padding: 40px 40px;
+}
+.fst{
+    font-size: 19px;
+}
